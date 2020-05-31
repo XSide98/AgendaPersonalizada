@@ -1,0 +1,2 @@
+rootProject.name='AgendaPersonalizada'
+include ':app'
